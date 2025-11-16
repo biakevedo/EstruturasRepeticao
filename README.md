@@ -1,8 +1,6 @@
-Estruturas de Repetição em Java
+Exercícios práticos sobre estruturas de repetição em Java, com foco em loops e iterações, fundamentais para resolver problemas que exigem execução repetida de trechos de código.
 
-Este repositório contém exercícios práticos sobre estruturas de repetição em Java, com foco em loops e iterações, fundamentais para resolver problemas que exigem execução repetida de trechos de código.
-
-🧩 Conteúdo dos exercícios
+Conteúdo dos exercícios
 
 For – loop com número conhecido de iterações
 
